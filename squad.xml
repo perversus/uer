@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="UER">
+    <name>Unidad Especial de Respuesta</name>
+    <email>albertoj.macias@gmail.com</email>
+    <web>N/A</web>
+    <picture>8fd7e8a84447eb03b6e2a533a591c525.paa</picture>
+    <title>N/A</title>
+    <member id="76561197965964108" nick="Gral Perversus Spain">
+        <name>Alberto Javier</name>
+        <email>albertoj.macias@gmail.com</email>
+        <icq>N/A</icq>
+        <remark>General</remark>
+    </member>
+</squad>
